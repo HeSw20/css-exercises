@@ -1,0 +1,21 @@
+.default,
+.plus {
+    background-color: #f08080;
+    color: #000000;
+    font-family: 'DejaVu Sans', Verdana, sans-serif;
+}
+
+.plus {
+    font-size: 24px;
+}
+
+#numbatwo {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#numbafour {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
